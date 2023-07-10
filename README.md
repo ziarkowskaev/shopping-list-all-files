@@ -9,3 +9,4 @@ Application includes database, created with PostgreSQL.
 
 Application can be run locally with docker-compose up command, assuming that Docker Desktop is installed on a computer.
 
+Shopping list folder includes the file from the first respitory /shopping-list
